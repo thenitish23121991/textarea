@@ -1,8 +1,6 @@
 textarea
 ========
 
-An example textarea with tags insertion features
+An example textarea with text editor features, inserts tag and text weights based on user selection. 
  
-
-#Usage
 
